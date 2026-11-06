@@ -7,7 +7,7 @@ set -e
 #
 # 用法: ./tools/warp-ping.sh [目标URL或域名]
 # 示例: ./tools/warp-ping.sh chatgpt.com
-#       ./tools/warp-ping.sh t66y.com
+#       ./tools/warp-ping.sh disneyplus.com
 #       ./tools/warp-ping.sh https://netflix.com
 # ==============================================================================
 

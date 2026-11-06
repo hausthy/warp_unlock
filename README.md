@@ -288,8 +288,8 @@ docker compose exec warp-unlock bash /data/warp_unlock.sh
 chmod +x tools/warp-ping.sh
 
 ./tools/warp-ping.sh chatgpt.com
-./tools/warp-ping.sh t66y.com
 ./tools/warp-ping.sh netflix.com
+./tools/warp-ping.sh disneyplus.com
 ```
 
 ---
